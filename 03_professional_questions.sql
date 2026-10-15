@@ -1,8 +1,6 @@
 -- =====================================================================
 -- LEVEL 3: PROFESSIONAL  (Q21-Q30)
 -- Subquery, CTE, window functions, RFM segments, view, stored procedures
--- Run schema/01_create_tables.sql and schema/02_load_and_clean.sql first.
--- Tip: in MySQL Workbench select ONE query and press Ctrl+Enter to run it.
 -- =====================================================================
 USE retail_project;
 

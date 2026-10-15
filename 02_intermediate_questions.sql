@@ -1,8 +1,6 @@
 -- =====================================================================
 -- LEVEL 2: INTERMEDIATE  (Q7-Q20)
 -- JOIN, GROUP BY, HAVING, CASE, date functions
--- Run schema/01_create_tables.sql and schema/02_load_and_clean.sql first.
--- Tip: in MySQL Workbench select ONE query and press Ctrl+Enter to run it.
 -- =====================================================================
 USE retail_project;
 
